@@ -1,4 +1,4 @@
 # logo
-A lone Haxe Developer
+Haxe enthusiast
 
 He/Him
